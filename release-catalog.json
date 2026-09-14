@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-14T00:00:00.000Z",
+  "releases": [
+    {
+      "version": "1.2.0",
+      "versionCode": 0,
+      "title": "Az egyetemi központ új szintje",
+      "summary": "Moodle, fejlettebb órarend és widgetek, valamint az új Frissítési központ.",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "channel": "stable",
+      "minimumSupportedVersionCode": null,
+      "download": null,
+      "notes": [
+        "Moodle-kurzusok, feladatok és tananyagok egységes megjelenítése.",
+        "Szerkeszthető órarend eredeti és egyéni nézettel, valamint heti táblázattal.",
+        "Megbízhatóbban és önállóbban frissülő, reszponzív Android-widgetek.",
+        "Biztonságos Frissítési központ és alkalmazáson belüli változásnapló."
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "versionCode": 0,
+      "title": "Gyorsabb és személyesebb UniStruct",
+      "summary": "Globális keresés, testreszabás és optimalizált háttérszinkron.",
+      "publishedAt": "2026-04-30T00:00:00.000Z",
+      "channel": "stable",
+      "minimumSupportedVersionCode": null,
+      "download": null,
+      "notes": [
+        "Globális keresés a feladatok, értékelések, kurzusok és órák között.",
+        "Testreszabható navigáció, főoldali blokksorrend és érintési visszajelzés.",
+        "Nagyságrendekkel kevesebb Firestore-olvasás változatlan értesítési részletesség mellett.",
+        "Négy natív Android-widget órákhoz, határidőkhöz, értesítésekhez és jegyekhez."
+      ]
+    }
+  ]
+}
