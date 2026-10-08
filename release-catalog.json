@@ -1,7 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T00:00:00.000Z",
+  "generatedAt": "2026-10-08T20:58:06.439Z",
   "releases": [
+    {
+      "version": "1.5.0",
+      "versionCode": 6,
+      "title": "Személyesebb, offline is megbízható UniStruct",
+      "summary": "Értesítési hangok, gyorsabb mentett adatok és személyre szabható Widgetek 2.0. Az APK elérhető; telefonos éles tesztelés folyamatban.",
+      "publishedAt": "2026-10-08T20:58:06.439Z",
+      "channel": "stable",
+      "minimumSupportedVersionCode": null,
+      "download": {
+        "apkUrl": "https://github.com/DoomVising/unistruct-releases/releases/download/v1.5.0/unistruct-1.5.0.apk",
+        "sha256": "78a1b9cae1faab3410aaf5c903cb93da563903162ca0bf029d1d8902bd8bdfc1",
+        "sizeBytes": 92453189
+      },
+      "notes": [
+        "Saját értesítési hang az új feladatokhoz, értékelésekhez és közelgő határidőkhöz; típusonként cserélhető vagy rendszerhangra állítható.",
+        "Készülékenkénti hangbeállítások, előnézet, alaphelyzet és offline mentés; a régi APK-k hangcsatornái megmaradnak.",
+        "A mentett tanulmányi adatok azonnali betöltése, összevont háttérellenőrzés és látható offline állapot.",
+        "Újracsatlakozáskor adatfrissítés; a jogosultsági hibát nem rejti el offline gyorsítótár.",
+        "Widgetenként külön téma, részletes vagy diszkrét nézet, választható elemszám és látható másodlagos részletek.",
+        "Canvas/TMS határidőszűrő és értesítéstípus-szűrő, beállítások közvetlenül a widgetről.",
+        "A widgetfrissítés csak a szükséges adatforrásokat kéri le; a frissebb natív adatok és az elrejtett értesítések megőrzése.",
+        "Kis widgetméretek és nagyobb betűk jobb kezelése; hiányos régi widgetadatok biztonságos újraépítése.",
+        "Ritkított TMS-állapotírás a Firestore-ban, változatlan tanulmányi adatlekérések mellett.",
+        "Nincs kötelező frissítés vagy adattörlés; a korábbi APK-k támogatása és a szüneteltetett integrációk állapota megmarad."
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "versionCode": 0,
+      "title": "Több telefon, közös tanulmányi központ",
+      "summary": "Közös Canvas-fiók, ütközésvédett órarend, tartós offline adatok és készülékenkénti push.",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "channel": "stable",
+      "minimumSupportedVersionCode": null,
+      "download": null,
+      "notes": [
+        "Canvas által igazolt közös fiók több telefonon, külön készülékmunkamenetekkel.",
+        "Fiókonként egyszeri Canvas-szinkron és tartós, telefononként külön push-kézbesítési sor.",
+        "Közös értesítési olvasás és elrejtés; offline műveletek megőrzése és újrapróbálása.",
+        "Szerkesztett órarend egyeztetése, látható ütközések és választható helyi vagy közös változat.",
+        "Az eredeti Neptun órarend, az ICS-link és a telefon emlékeztetőazonosítói helyben maradnak.",
+        "Tartós Canvas/TMS gyorsítótár a tanulmányi képernyőkhöz, mentett adatot jelző fejléc.",
+        "Fiókszinkron-kezelő és személyes kulcsokat nem megjelenítő kézbesítési állapot.",
+        "Változatlan értesítési listák verzióellenőrzése és változásalapú régi klienskompatibilitás.",
+        "Teams-integráció szüneteltetve; a kapcsolódási felület és a hozzáférési próba kikerült a csomagból.",
+        "A Moodle továbbra is Fejlesztés alatt; a régi APK-k támogatása és a korábbi előzmények megmaradnak."
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "versionCode": 0,
+      "title": "Megbízhatóság a mindennapokban",
+      "summary": "Értesítési javítások, tartósabb gyorsítótár, biztonságosabb widgetek és pontosabb órarend.",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "channel": "stable",
+      "minimumSupportedVersionCode": null,
+      "download": null,
+      "notes": [
+        "Dátum nélküli értékelések megőrzése és párhuzamos értesítési mentések javítása.",
+        "A kézi frissítéskor felfedezett események sem maradnak ki a pushküldési sorból.",
+        "Expo-visszaigazolások ellenőrzése, korlátozott újrapróbálás és párhuzamos szinkron elleni védelem.",
+        "Időkorlát a teljes API-válaszra; korábbi főoldali adatok megőrzése átmeneti hálózati hibánál.",
+        "Widgetes órarend hosszabb időszakra, valós adatfrissesség és titkosított natív munkamenet.",
+        "Teljesebb kijelentkezési takarítás widgetekkel, háttérfeladattal és emlékeztetőkkel.",
+        "Óraátállítást követő heti saját órák és emlékeztetők; biztonságosabb egyidejű órarendszerkesztés.",
+        "Ellenőrzött Canvas-címek, biztonságos átirányítások és célzott függőségjavítások.",
+        "A Moodle-részek átmenetileg Fejlesztés alatt jelzést kapnak; a régi kliensek API-ja megmarad."
+      ]
+    },
     {
       "version": "1.2.0",
       "versionCode": 0,
