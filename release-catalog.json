@@ -6,7 +6,7 @@
       "version": "1.5.0",
       "versionCode": 6,
       "title": "Személyesebb, offline is megbízható UniStruct",
-      "summary": "Értesítési hangok, gyorsabb mentett adatok, Widgetek 2.0 és letisztultabb felület, összecsukható változásnaplóval.",
+      "summary": "Értesítési hangok, gyorsabb mentett adatok, Widgetek 2.0, összecsukható változásnapló és új verziót jelző értesítés.",
       "publishedAt": "2026-10-08T20:58:06.439Z",
       "channel": "stable",
       "minimumSupportedVersionCode": null,
@@ -16,8 +16,8 @@
         "sizeBytes": 92453189
       },
       "notes": [
-        "Felületi gyorsjavítás: csendes háttérfrissítés, rövidebb hang- és widgetbeállítások, rövid mentési visszajelzés.",
-        "Összecsukható változáslisták a főoldalon és a Frissítési központban; minden verzió külön nyitható meg.",
+        "Új frissítés: külön kapcsolható, készülékenkénti értesítés az új letölthető verziókról, verziószámmal és rövid összefoglalóval; megnyitás a Frissítési központban.",
+        "Letisztultabb felület: csendes háttérfrissítés, rövidebb beállítások, rövid mentési visszajelzés és verziónként összecsukható változáslisták.",
         "Saját értesítési hang az új feladatokhoz, értékelésekhez és közelgő határidőkhöz; típusonként cserélhető vagy rendszerhangra állítható.",
         "Készülékenkénti hangbeállítások, előnézet, alaphelyzet és offline mentés; a régi APK-k hangcsatornái megmaradnak.",
         "A mentett tanulmányi adatok azonnali betöltése, összevont háttérellenőrzés és látható offline állapot.",
