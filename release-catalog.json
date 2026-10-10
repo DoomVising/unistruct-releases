@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T21:21:46.680Z",
+  "generatedAt": "2026-10-10T22:33:51.576Z",
   "releases": [
+    {
+      "version": "1.6.3",
+      "versionCode": 11,
+      "title": "Kompaktabb Galaxis-widgetek",
+      "summary": "Tartalomhoz igazított widgetkártyák, kisebb kiemelt blokkok és javított méretezés mind az öt Galaxis-témában.",
+      "publishedAt": "2026-10-10T22:33:51.576Z",
+      "channel": "stable",
+      "minimumSupportedVersionCode": null,
+      "download": {
+        "apkUrl": "https://github.com/DoomVising/unistruct-releases/releases/download/v1.6.3/unistruct-1.6.3.apk",
+        "sha256": "aee8144766b534f7c1122355df226061113c4ce674d1ab0ca864799bcc95d811",
+        "sizeBytes": 92811040
+      },
+      "notes": [
+        "Mind a négy Galaxis-widget kártyamagassága a tényleges tartalomhoz igazodik; megszűnik az indokolatlan alsó színes üres felület.",
+        "A legutóbbi értékelés, értesítés, következő óra és határidő kiemelése nem kap többé a dekoráció miatt kényszerített, túl nagy minimummagasságot.",
+        "Az egyelemes és üres nézetek nem nyúlnak a widget teljes magasságára; az üres órarendnézet ismételt számlálója is eltűnik.",
+        "Biztonságosabb sorkapacitás méretezéskor, tömörebb előnézet és javított nagyon alacsony widgetnézet nagy betűméretnél.",
+        "A javítás a Kobalt, Smaragd, Obszidián, Royal Velvet és Rubin widgetekre is érvényes.",
+        "A widgetek beállításai, szűrői, elemszámai, diszkrét nézete és háttérfrissítése, valamint a fiókok és a korábbi APK-k támogatása megmarad."
+      ]
+    },
     {
       "version": "1.6.2",
       "versionCode": 10,
