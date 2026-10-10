@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T18:41:28.023Z",
+  "generatedAt": "2026-10-10T21:21:46.680Z",
   "releases": [
+    {
+      "version": "1.6.2",
+      "versionCode": 10,
+      "title": "Galaxis alapbeállítások",
+      "summary": "Kék Galaxis 2.0 az app és a widgetek alapja, az offline elszürkülés alapból kikapcsolva.",
+      "publishedAt": "2026-10-10T21:21:46.680Z",
+      "channel": "stable",
+      "minimumSupportedVersionCode": null,
+      "download": {
+        "apkUrl": "https://github.com/DoomVising/unistruct-releases/releases/download/v1.6.2/unistruct-1.6.2.apk",
+        "sha256": "2b0c9cadb063c569b124f51bdc6e36d33362bae38a01b86ea06dd3ccaacadabf",
+        "sizeBytes": 92808796
+      },
+      "notes": [
+        "Az új telepítések és a frissített alkalmazások alapmegjelenése a kék, kobaltos Galaxis 2.0.",
+        "Az offline elszürkülés alapból kikapcsolva; a Testreszabásban továbbra is szabadon bekapcsolható.",
+        "Mind a négy widget alapja a legújabb kék Galaxis 2.0, az alkalmazás későbbi témaválasztásától függetlenül.",
+        "A meglévő app- és widgettémák egyszer átállnak az új alapokra; a későbbi saját választások megmaradnak.",
+        "A widgetek szűrői, elemszámai és diszkrét nézete, valamint a fiókok, belépések és tanulmányi adatok megmaradnak.",
+        "Változatlan Constellation navigáció, értesítések és frissítési folyamat; nincs kötelező frissítés vagy adattörlés."
+      ]
+    },
     {
       "version": "1.6.1",
       "versionCode": 9,
