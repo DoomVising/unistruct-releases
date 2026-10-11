@@ -1,7 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T00:29:07.940Z",
+  "generatedAt": "2026-10-11T18:26:53.797Z",
   "releases": [
+    {
+      "version": "1.6.5",
+      "versionCode": 13,
+      "title": "Galaxis a részletekben",
+      "summary": "Megújult választópanelek, kurzusrészletek, naptár, órarendszerkesztő és első indítás: a Galaxis-felületek hétlépéses finomítása.",
+      "publishedAt": "2026-10-11T18:26:53.797Z",
+      "channel": "stable",
+      "minimumSupportedVersionCode": null,
+      "download": {
+        "apkUrl": "https://github.com/DoomVising/unistruct-releases/releases/download/v1.6.5/unistruct-1.6.5.apk",
+        "sha256": "a4b1443636a0595cfc6d9921950de7e2f9bd6c619255eabb79b3562754aa63b6",
+        "sizeBytes": 92927204
+      },
+      "notes": [
+        "Egységes, kompakt választópanelek félévekhez, kurzusokhoz, rendezéshez és értesítésszűréshez; hosszú listáknál helyi kereséssel.",
+        "Kidolgozottabb Canvas-kurzusanyagok, fájlok, feladatok és TMS-részletek, jól elkülönített határidővel, eredménnyel és hozzáférési állapottal.",
+        "Átlátható értesítési szabályok: mind a négy kategória és a meglévő határidő-emlékeztetők egy rendezett felületen.",
+        "Megújult Fiók és biztonság, illetve Fiókszinkron: tényleges kapcsolatállapotok, áttekinthető készülék- és közösadat-panelek.",
+        "Részletesebb feladatnaptár és órarendi táblázat; olvashatóbb párhuzamos órák, heti dátumválasztó és megtartott teljes képernyős nézet.",
+        "Újratervezett órarendszerkesztő: rendezett mezők, kezdés–befejezés panel, reszponzív emlékeztetők és biztosabb mentési visszajelzés.",
+        "Egységes Galaxis első indítás: üdvözlés, Canvas-token, órarendimport, értesítési engedély és első szinkron rövid, lépésközpontú felületeken.",
+        "Mind az öt Galaxis-téma és a korábbi kinézetek megmaradnak; a szűrők, műveletek, fiókok és személyes beállítások változatlanul elérhetők.",
+        "Nincs kötelező frissítés vagy adattörlés. A korábbi APK-k támogatása megmarad; a Moodle és Teams továbbra is szüneteltetve."
+      ]
+    },
     {
       "version": "1.6.4",
       "versionCode": 12,
