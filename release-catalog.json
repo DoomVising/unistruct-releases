@@ -16,6 +16,7 @@
         "sizeBytes": 92927204
       },
       "notes": [
+        "Csendes gyorsfrissítések: a kompatibilis javítások felugró jelzés nélkül letöltődnek, és a következő teljes appindításkor életbe lépnek. Használat közben nincs automatikus újraindítás; az új APK-k értesítése és a kézi frissítés megmarad.",
         "1.6.5 gyorsjavítás: a lapváltás nem rendereli újra a teljes kilépő és belépő oldalt csak a fókusz változása miatt; a főoldal időzítője rejtve szünetel, az értesítési lista pedig fokozatosan épül fel. A navigáció, animációkapcsolók és szűrők megmaradnak.",
         "Egységes, kompakt választópanelek félévekhez, kurzusokhoz, rendezéshez és értesítésszűréshez; hosszú listáknál helyi kereséssel.",
         "Kidolgozottabb Canvas-kurzusanyagok, fájlok, feladatok és TMS-részletek, jól elkülönített határidővel, eredménnyel és hozzáférési állapottal.",
