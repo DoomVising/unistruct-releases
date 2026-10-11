@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T22:33:51.576Z",
+  "generatedAt": "2026-10-11T00:29:07.940Z",
   "releases": [
+    {
+      "version": "1.6.4",
+      "versionCode": 12,
+      "title": "Rendezettebb felületek",
+      "summary": "Egységes feladatszűrők, rendszerezett beállítások, megújult órarend és típushoz illő értesítési kártyák.",
+      "publishedAt": "2026-10-11T00:29:07.940Z",
+      "channel": "stable",
+      "minimumSupportedVersionCode": null,
+      "download": {
+        "apkUrl": "https://github.com/DoomVising/unistruct-releases/releases/download/v1.6.4/unistruct-1.6.4.apk",
+        "sha256": "405188c3857e6beead6098302cfc7fe4b7cf90913ddb5ad49d55b2ed9e5d9797",
+        "sizeBytes": 92835904
+      },
+      "notes": [
+        "Átláthatóbb Feladatok oldal: mind a hat státusz egyszer, darabszámmal jelenik meg; külön lista/naptár kapcsoló és lenyitható félév-, kurzus- és rendezésválasztó.",
+        "Rendezett Beállítások: megjelenés és élmény, értesítések, fiók és kapcsolatok, alkalmazás; külön lenyitható rendszerdiagnosztika.",
+        "Megújult órarend: kifinomult forrás- és nézetválasztó, idővonalszerű órakártyák, átláthatóbb időpont-, helyszín- és szerkesztésjelölések.",
+        "Az értékelések, feladatok, határidők és új frissítések értesítési kártyái eltérő, típushoz illő elrendezést és részleteket kaptak.",
+        "Az öt Galaxis-téma, a nagy betűméretek, a meglévő szűrők és műveletek támogatása megmaradt; a félévválasztás üres feladatlistánál is elérhető.",
+        "A belépések, személyes beállítások, widgetek és régebbi APK-k támogatása változatlan. Nincs kötelező frissítés vagy adattörlés."
+      ]
+    },
     {
       "version": "1.6.3",
       "versionCode": 11,
