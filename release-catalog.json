@@ -16,6 +16,7 @@
         "sizeBytes": 92927204
       },
       "notes": [
+        "1.6.5 gyorsjavítás: a lapváltás nem rendereli újra a teljes kilépő és belépő oldalt csak a fókusz változása miatt; a főoldal időzítője rejtve szünetel, az értesítési lista pedig fokozatosan épül fel. A navigáció, animációkapcsolók és szűrők megmaradnak.",
         "Egységes, kompakt választópanelek félévekhez, kurzusokhoz, rendezéshez és értesítésszűréshez; hosszú listáknál helyi kereséssel.",
         "Kidolgozottabb Canvas-kurzusanyagok, fájlok, feladatok és TMS-részletek, jól elkülönített határidővel, eredménnyel és hozzáférési állapottal.",
         "Átlátható értesítési szabályok: mind a négy kategória és a meglévő határidő-emlékeztetők egy rendezett felületen.",
