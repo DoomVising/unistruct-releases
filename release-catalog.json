@@ -16,6 +16,7 @@
         "sizeBytes": 92956736
       },
       "notes": [
+        "1.6.6 gyorsjavítás: a Galaxis-fejléc a Klasszikus navigáció felső menügombjával együtt akár négy műveletet is rendezett sorban fogad. A cím, a gombok és az oldal tartalma nem fedik egymást; nagyított szövegnél a fejléc a rendelkezésre álló helyhez igazodik mind az öt témában. Csendes frissítés, új APK nélkül.",
         "Három választható Galaxis-navigáció: Constellation, öt alsó gyorsgombos Klasszikus felső oldalmenüvel, valamint lapozható Satellite Rail. Minden oldal és a gyorsgombok testreszabása megmarad.",
         "Animált menünyitás, elrendezésváltás és gyorsgombcsere mind az öt Galaxis-témában; nagy betűméretnél is olvasható, reszponzív kezelőfelület.",
         "Átdolgozott Android-visszatérés és oldalátmenet az üres képkockák csökkentésére; háttérbe küldéskor a menüanimációk leállnak, és nem indulnak újra visszatéréskor.",
