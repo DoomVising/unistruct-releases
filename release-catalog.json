@@ -1,7 +1,33 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T18:26:53.797Z",
+  "generatedAt": "2026-10-12T10:57:59.535Z",
   "releases": [
+    {
+      "version": "1.6.6",
+      "versionCode": 14,
+      "title": "Rugalmasabb navigáció és kényelmesebb használat",
+      "summary": "Három navigációs elrendezés, automatikus mentés, javított widgetméretezés és kompaktabb kártyák.",
+      "publishedAt": "2026-10-12T10:57:59.535Z",
+      "channel": "stable",
+      "minimumSupportedVersionCode": null,
+      "download": {
+        "apkUrl": "https://github.com/DoomVising/unistruct-releases/releases/download/v1.6.6/unistruct-1.6.6.apk",
+        "sha256": "e0f38d109e32cfcff870831e3c136a8705d88d18a4dbf98c34a9365492a9f7ac",
+        "sizeBytes": 92956736
+      },
+      "notes": [
+        "Három választható Galaxis-navigáció: Constellation, öt alsó gyorsgombos Klasszikus felső oldalmenüvel, valamint lapozható Satellite Rail. Minden oldal és a gyorsgombok testreszabása megmarad.",
+        "Animált menünyitás, elrendezésváltás és gyorsgombcsere mind az öt Galaxis-témában; nagy betűméretnél is olvasható, reszponzív kezelőfelület.",
+        "Átdolgozott Android-visszatérés és oldalátmenet az üres képkockák csökkentésére; háttérbe küldéskor a menüanimációk leállnak, és nem indulnak újra visszatéréskor.",
+        "Automatikus mentés az értesítési kapcsolóknál, szabályoknál, hangoknál, widgetbeállításoknál és navigációnál. Sikertelen mentés újrapróbálható, az offline értesítési változtatások később szinkronizálódnak.",
+        "A hangpróba oldalán a hangerőgombok az értesítési hangerőt célozzák, kilépéskor visszaáll a korábbi vezérlés. Az Android némítása és Ne zavarjanak módja megmarad.",
+        "Mind a négy widget kitölti a kijelölt helyet, miközben a kártyák és sorok tartalomhoz igazítottak. Az új Méret szerint elemszám a widget méretéhez és a betűmérethez alkalmazkodik.",
+        "Tömörebb értesítési és feladatkártyák, kisebb felesleges térközök és legfeljebb két tizedesjegyes pontszámok. Az eredeti tanulmányi adatok nem változnak.",
+        "Sötét, kompakt frissítésjelző kártya. Az új verzió értesítésére koppintás azonnal megnyitja a frissítési központot; a letöltés továbbra is ellenőrzött kiadási adatok alapján történik.",
+        "A kompatibilis gyorsfrissítések továbbra is csendben töltődnek le, és a következő teljes appindításkor aktiválódnak. Használat közben nincs automatikus újraindítás.",
+        "A belépések, fiókok, személyes beállítások és korábbi APK-k támogatása megmarad. Nincs kötelező frissítés vagy adattörlés; Moodle és Teams továbbra is szüneteltetve."
+      ]
+    },
     {
       "version": "1.6.5",
       "versionCode": 13,
